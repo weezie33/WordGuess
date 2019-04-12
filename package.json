@@ -1,0 +1,24 @@
+{
+  "name": "wordGuess",
+  "version": "1.0.0",
+  "description": "Word game in Node-js",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "inquirer": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weezie33/WordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weezie33/WordGuess/issues"
+  },
+  "homepage": "https://github.com/weezie33/WordGuess#readme"
+}
